@@ -8,7 +8,7 @@ I am aspiring to build my professional portfolio and pursue a career in computer
 Furthermore, I created a portfolio website using Raw PHP 8. I made a basic web framework using PHP and an MVC pattern to sharpen my skills in understanding TDD, MVC, and Backend Development. The address is https://www.jaydenvausedesigns.com
 Everything was done using vanilla code and in no way did I receive any 3rd party code to make this website. It is somewhat nice looking but fairly basic in nature, however, the backend framework programming was a great experience in learning how it all pieced together.
 
-Additionally, I have a GitHub with a few years of VERY SIMPLE programming practice uploads and commits, I am familiar with version control, ubuntu, and windows OS.  
+Additionally, I have a a few years of VERY SIMPLE programming practice uploads and commits, I am familiar with version control, ubuntu, and windows OS.  
 
 I value the opportunity to expand my knowledge in website development and the ability to work collaboratively with a team of like-minded individuals.
 
